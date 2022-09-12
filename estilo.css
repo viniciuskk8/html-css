@@ -1,0 +1,44 @@
+#titulum {
+	text-align: center;
+	font-size: 50px;
+}
+
+.paragrafo {
+	font-size: 23px;
+}
+
+#foto {
+	width: 30%;
+}
+
+.lista {
+	display: inline-block;
+	padding: 20px;
+	font-size: 20px;
+}
+
+#fundo {
+	background: LightSkyBlue;
+}
+
+.titulos {
+	font-size: 30px;
+}
+
+strong {
+	color: black;
+}
+
+.titu {
+	font-size: 25px;
+}
+
+#fot {
+	width: 20%;
+}
+
+#head {
+    font-size: 25px;
+	color: blue;
+}
+
